@@ -7,7 +7,7 @@ describe('Test LinkedIn', ()=> {
        // cy.get('.nav__button-secondary').click();
 
         //cy.get('.nav__button-secondary').click();
-       // cy.get('r3').type('andreeacondrache4@gmail.com');
+       // cy.get('r3').type('testemail@gmail.com');
        // cy.get('#\:r4\:').type('fCb&_x2q,YAm2iL');
     });
 });
